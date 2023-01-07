@@ -16,10 +16,10 @@ Contributions are always welcome!
 
 ### Boot Process
 
-- [ ] [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup)
-- [ ] [What happens when we turn on computer?](https://www.cdn.geeksforgeeks.org/what-happens-when-we-turn-on-computer)
-- [ ] [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
-- [ ] [From Power up to login prompt](http://www.scott-a-s.com/files/linux_boot.pdf)
+- [x] [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup)
+- [x] [What happens when we turn on computer?](https://www.cdn.geeksforgeeks.org/what-happens-when-we-turn-on-computer)
+- [x] [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
+- [x] [From Power up to login prompt](http://www.scott-a-s.com/files/linux_boot.pdf)
 
 ### Filesystem
 
@@ -63,10 +63,10 @@ Contributions are always welcome!
 
 ## Containers
 
-- [ ] [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html)
-- [ ] [Containers Patterns](https://l0rd.github.io/containerspatterns)
-- [ ] [Docker Container Anti Patterns](https://blog.couchbase.com/docker-container-anti-patterns/)
-- [ ] [Anti-Patterns When Building Container Images](https://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns)
+- [x] [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html)
+- [x] [Containers Patterns](https://l0rd.github.io/containerspatterns)
+- [x] [Docker Container Anti Patterns](https://blog.couchbase.com/docker-container-anti-patterns/)
+- [x] [Anti-Patterns When Building Container Images](https://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns)
 
 ## Kubernetes
 
@@ -103,8 +103,8 @@ Contributions are always welcome!
 ## CI/CD
 
 - [ ] [7 Pipeline Design Patterns for Continuous Delivery](https://www.singlestoneconsulting.com/blog/7-pipeline-design-patterns-for-continuous-delivery)
-- [ ] [CI/CD patterns](https://continuousdelivery.com/implementing/patterns)
-- [ ] [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies)
+- [x] [CI/CD patterns](https://continuousdelivery.com/implementing/patterns)
+- [x] [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies)
 
 ## Clouds
 
@@ -123,11 +123,11 @@ Contributions are always welcome!
 ### Go (Golang)
 
 - [ ] [A tour of Go](https://tour.golang.org)
-- [ ] [Go by Example](https://gobyexample.com)
+- [x] [Go by Example](https://gobyexample.com)
 - [ ] [Go Tutorials & Examples](https://gosamples.dev)
 - [ ] [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [ ] [Getting up and running with Go](http://www.golangprograms.com)
-- [ ] [Effective Go](https://golang.org/doc/effective_go.html)
+-  ] [Effective Go](https://golang.org/doc/effective_go.html)
 - [ ] [Go Design Patterns](https://github.com/tmrts/go-patterns)
 - [ ] [Go Memory Management](https://povilasv.me/go-memory-management)
 - [ ] [Style Guide](https://google.github.io/styleguide/go/guide)
